@@ -1,0 +1,33 @@
+input{
+    border: none;
+    outline: none;
+ 
+
+}
+#bgimg{
+    background-color: blueviolet;
+}
+a{
+    text-decoration: none;
+    color: rgb(105, 160, 142);
+}
+#inputuser{
+  border-radius: 25px;
+  border: 2px solid black;
+  
+}
+.backdiv{
+    background-size: cover;
+    height: 100vh;
+   
+}
+.frontdiv{
+    border-radius: 25px;
+}
+.buto{
+    border-radius: 25px;
+}
+.imagediv{
+    margin-top: 10%;
+}
+

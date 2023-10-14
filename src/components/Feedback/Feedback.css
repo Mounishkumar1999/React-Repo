@@ -1,0 +1,18 @@
+.feedbackdiv{
+    width: 50vh;
+    background-color: rgb(194, 251, 249);
+
+}
+#emoji{
+    color: rgb(192, 192, 0);
+    font-size:50px;
+}
+#emoji1{
+    color: rgb(255, 0, 0);
+    font-size:70px;
+}
+.feedbackdiv1{
+    width: 50vh;
+    background-color: rgb(252, 161, 248);
+
+}

@@ -1,0 +1,14 @@
+.fruimg{
+    width: 100%;
+    height: 100%;
+}
+.frug{
+    color: rgb(184, 184, 3);
+}
+.fruitdiv{
+    width: 80%;
+    border-radius: 25px;
+}
+#fruimg{
+    background-color: yellow;
+}

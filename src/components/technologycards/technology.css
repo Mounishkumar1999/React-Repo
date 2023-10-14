@@ -1,0 +1,28 @@
+.technodiv{
+    background-color: rgb(231, 250, 131);
+}
+#imgt{
+    width: 900%;
+  
+}
+.datasci{
+    border-radius: 30px;
+    border-top: 10px solid rgb(187, 4, 4);
+    background-color: white;
+}
+.iotdev{
+    border-radius: 30px;
+    border-top: 10px solid rgb(3, 3, 187);
+    background-color: white;
+}
+.dtsci{
+    border-radius: 30px;
+    border-top: 10px solid rgb(255, 119, 0);
+    background-color: white;
+}
+
+.vrdp{
+    border-radius: 30px;
+    border-top: 10px solid rgb(3, 141, 6);
+    background-color: white;
+}
